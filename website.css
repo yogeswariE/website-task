@@ -1,0 +1,29 @@
+.container{
+    background-color: rgb(16, 202, 112);
+    color: black;
+    font-family: cursive;
+    font-weight: 500;
+
+}
+.one{
+    
+    background-color: rgb(8, 255, 201);
+    font-size: large;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    img{
+        width: 500px;
+    }
+}
+.two{
+    img{
+        width: 830px;
+        height: 340px;
+    }
+}
+.three{
+    background-color:rgb(121, 242, 121);
+    font-family: monospace;
+    font-weight: 300;
+}
